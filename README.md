@@ -1,4 +1,4 @@
-# Docker_CI_CentOS7_GCC_MinGW64_Doxgen
+# centos7-gcc-mingw64-doxygen
 
 ## Includes
 
