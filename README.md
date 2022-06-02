@@ -1,5 +1,7 @@
 # centos7-gcc-mingw64-doxygen
 
+[![CI](https://github.com/pachira-open-source/centos7-gcc-mingw64-doxygen/actions/workflows/main.yml/badge.svg)](https://github.com/pachira-open-source/centos7-gcc-mingw64-doxygen/actions/workflows/main.yml)
+
 ## Includes
 
 - CentOS 7
